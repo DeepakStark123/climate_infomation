@@ -5,9 +5,9 @@
 objective:-Weather information app
 
 
-## What you will create
+## What we created
 
-We’re going to make a weather app,By the help of this app we will be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+Here we made a weather app,By the help of this app we will be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
 ##Video Demo
 
